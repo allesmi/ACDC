@@ -3,7 +3,7 @@
 		'default_cflags': [
 			'-pthread',
 			'-Wall',
-			'-Werror',
+			# '-Werror',
 			'-m64',
 			'-mcx16',
 		],
